@@ -1,0 +1,182 @@
+EESchema Schematic File Version 4
+LIBS:generator_5351_rect_sine-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 13 23
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:L L?
+U 1 1 5AF1FB13
+P 4900 3700
+AR Path="/5AF1F143/5AF1FB13" Ref="L?"  Part="1" 
+AR Path="/5AF21C43/5AF1FB13" Ref="L?"  Part="1" 
+AR Path="/5AF9628E/5AF1FB13" Ref="L?"  Part="1" 
+AR Path="/5B04B147/5B05369F/5AF1FB13" Ref="L301"  Part="1" 
+AR Path="/5B04B147/5B053798/5AF1FB13" Ref="L1301"  Part="1" 
+AR Path="/5B04B147/5B0536AC/5AF1FB13" Ref="L401"  Part="1" 
+F 0 "L1301" V 5090 3700 50  0000 C CNN
+F 1 "33n" V 4999 3700 50  0000 C CNN
+F 2 "Inductor_SMD:L_0805_2012Metric_Pad1.33x1.40mm_HandSolder" H 4900 3700 50  0001 C CNN
+F 3 "~" H 4900 3700 50  0001 C CNN
+	1    4900 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5B31A953
+P 5150 3900
+AR Path="/5AF1F143/5B31A953" Ref="C?"  Part="1" 
+AR Path="/5AF21C43/5B31A953" Ref="C?"  Part="1" 
+AR Path="/5AF9628E/5B31A953" Ref="C?"  Part="1" 
+AR Path="/5B04B147/5B05369F/5B31A953" Ref="C301"  Part="1" 
+AR Path="/5B04B147/5B053798/5B31A953" Ref="C1301"  Part="1" 
+AR Path="/5B04B147/5B0536AC/5B31A953" Ref="C401"  Part="1" 
+F 0 "C1301" H 5242 3946 50  0000 L CNN
+F 1 "24p" H 5242 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.33x1.40mm_HandSolder" H 5150 3900 50  0001 C CNN
+F 3 "~" H 5150 3900 50  0001 C CNN
+	1    5150 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:L L?
+U 1 1 5B31A954
+P 5400 3700
+AR Path="/5AF1F143/5B31A954" Ref="L?"  Part="1" 
+AR Path="/5AF21C43/5B31A954" Ref="L?"  Part="1" 
+AR Path="/5AF9628E/5B31A954" Ref="L?"  Part="1" 
+AR Path="/5B04B147/5B05369F/5B31A954" Ref="L302"  Part="1" 
+AR Path="/5B04B147/5B053798/5B31A954" Ref="L1302"  Part="1" 
+AR Path="/5B04B147/5B0536AC/5B31A954" Ref="L402"  Part="1" 
+F 0 "L1302" V 5590 3700 50  0000 C CNN
+F 1 "82n" V 5499 3700 50  0000 C CNN
+F 2 "Inductor_SMD:L_0805_2012Metric_Pad1.33x1.40mm_HandSolder" H 5400 3700 50  0001 C CNN
+F 3 "~" H 5400 3700 50  0001 C CNN
+	1    5400 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:L L?
+U 1 1 5B31A955
+P 5900 3700
+AR Path="/5AF1F143/5B31A955" Ref="L?"  Part="1" 
+AR Path="/5AF21C43/5B31A955" Ref="L?"  Part="1" 
+AR Path="/5AF9628E/5B31A955" Ref="L?"  Part="1" 
+AR Path="/5B04B147/5B05369F/5B31A955" Ref="L303"  Part="1" 
+AR Path="/5B04B147/5B053798/5B31A955" Ref="L1303"  Part="1" 
+AR Path="/5B04B147/5B0536AC/5B31A955" Ref="L403"  Part="1" 
+F 0 "L1303" V 6090 3700 50  0000 C CNN
+F 1 "82n" V 5999 3700 50  0000 C CNN
+F 2 "Inductor_SMD:L_0805_2012Metric_Pad1.33x1.40mm_HandSolder" H 5900 3700 50  0001 C CNN
+F 3 "~" H 5900 3700 50  0001 C CNN
+	1    5900 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:L L?
+U 1 1 5B31A956
+P 6400 3700
+AR Path="/5AF1F143/5B31A956" Ref="L?"  Part="1" 
+AR Path="/5AF21C43/5B31A956" Ref="L?"  Part="1" 
+AR Path="/5AF9628E/5B31A956" Ref="L?"  Part="1" 
+AR Path="/5B04B147/5B05369F/5B31A956" Ref="L304"  Part="1" 
+AR Path="/5B04B147/5B053798/5B31A956" Ref="L1304"  Part="1" 
+AR Path="/5B04B147/5B0536AC/5B31A956" Ref="L404"  Part="1" 
+F 0 "L1304" V 6590 3700 50  0000 C CNN
+F 1 "82n" V 6499 3700 50  0000 C CNN
+F 2 "Inductor_SMD:L_0805_2012Metric_Pad1.33x1.40mm_HandSolder" H 6400 3700 50  0001 C CNN
+F 3 "~" H 6400 3700 50  0001 C CNN
+	1    6400 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5B31A957
+P 5650 3900
+AR Path="/5AF1F143/5B31A957" Ref="C?"  Part="1" 
+AR Path="/5AF21C43/5B31A957" Ref="C?"  Part="1" 
+AR Path="/5AF9628E/5B31A957" Ref="C?"  Part="1" 
+AR Path="/5B04B147/5B05369F/5B31A957" Ref="C302"  Part="1" 
+AR Path="/5B04B147/5B053798/5B31A957" Ref="C1302"  Part="1" 
+AR Path="/5B04B147/5B0536AC/5B31A957" Ref="C402"  Part="1" 
+F 0 "C1302" H 5742 3946 50  0000 L CNN
+F 1 "27p" H 5742 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.33x1.40mm_HandSolder" H 5650 3900 50  0001 C CNN
+F 3 "~" H 5650 3900 50  0001 C CNN
+	1    5650 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 5B31A958
+P 6150 3900
+AR Path="/5AF1F143/5B31A958" Ref="C?"  Part="1" 
+AR Path="/5AF21C43/5B31A958" Ref="C?"  Part="1" 
+AR Path="/5AF9628E/5B31A958" Ref="C?"  Part="1" 
+AR Path="/5B04B147/5B05369F/5B31A958" Ref="C303"  Part="1" 
+AR Path="/5B04B147/5B053798/5B31A958" Ref="C1303"  Part="1" 
+AR Path="/5B04B147/5B0536AC/5B31A958" Ref="C403"  Part="1" 
+F 0 "C1303" H 6242 3946 50  0000 L CNN
+F 1 "24p" H 6242 3855 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.33x1.40mm_HandSolder" H 6150 3900 50  0001 C CNN
+F 3 "~" H 6150 3900 50  0001 C CNN
+	1    6150 3900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5050 3700 5150 3700
+Wire Wire Line
+	5550 3700 5650 3700
+Wire Wire Line
+	6050 3700 6150 3700
+Wire Wire Line
+	6150 3800 6150 3700
+Connection ~ 6150 3700
+Wire Wire Line
+	6150 3700 6250 3700
+Wire Wire Line
+	5650 3800 5650 3700
+Connection ~ 5650 3700
+Wire Wire Line
+	5650 3700 5750 3700
+Wire Wire Line
+	5150 3800 5150 3700
+Connection ~ 5150 3700
+Wire Wire Line
+	5150 3700 5250 3700
+Wire Wire Line
+	5150 4000 5150 4100
+Wire Wire Line
+	5150 4100 5650 4100
+Wire Wire Line
+	5650 4100 5650 4000
+Wire Wire Line
+	5650 4100 6150 4100
+Wire Wire Line
+	6150 4100 6150 4000
+Connection ~ 5650 4100
+Text HLabel 4750 3700 0    50   UnSpc ~ 0
+IN
+Text HLabel 6700 3700 2    50   UnSpc ~ 0
+OUT
+Text HLabel 5750 4250 2    50   UnSpc ~ 0
+GND
+Wire Wire Line
+	5750 4250 5650 4250
+Wire Wire Line
+	5650 4250 5650 4100
+Wire Wire Line
+	6550 3700 6700 3700
+Text Notes 4250 3300 0    50   ~ 0
+200 MHz 7-th order Legendre LPF (50 Ohm terminated on both ends).\nValues are not precise but fit into standard Exx series with negligible response error.
+$EndSCHEMATC

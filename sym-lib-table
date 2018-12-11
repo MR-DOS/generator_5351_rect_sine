@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name generator_5351_rect_sine-rescue)(type Legacy)(uri ${KIPRJMOD}/generator_5351_rect_sine-rescue.lib)(options "")(descr ""))
+)
